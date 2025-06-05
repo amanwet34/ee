@@ -1,0 +1,79 @@
+@media (max-width:2560px){ 
+    .navbar-light .navbar-nav .nav-link {
+    color: rgb(20 0 0);
+    font-size: 20px;
+}
+}
+footer h2{
+    color: #fff;
+}
+footer img{
+    background: #fff;
+    border-radius: 20px;
+    padding: 15px;
+}
+footer p{
+    color: #fff;
+}
+    .aboutus .container{
+        /* border: 1px solid red;
+        border-radius: 20px;
+        background: #f4e2e2; */
+        
+    }
+    .copyrights{
+        background: black;
+    }
+    .copyrights p{
+        color: white;
+    }
+    footer p{
+        text-align: justify;
+    }
+    footer{
+        background:url(../img/feferthkh.jpg);
+        padding: 50px;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    .head-top{
+        background: #fe0000;
+        color: #fff;
+    }
+    .navbar{
+        background:linear-gradient(269deg, #fff0f0, #ffffff00);
+    }
+    .navbar-brand{
+        width: 5%;
+      }  
+
+@media (max-width:1920px) {
+    
+}
+@media (max-width:1440px) {
+    
+}
+@media (max-width:1024px) {
+    
+}
+@media (max-width:768px) {
+   .navbar-brand{
+        width: 18%;
+    } 
+}
+@media (max-width:576px) {
+    .navbar-brand{
+        width: 30%;
+    }
+}
+@media (max-width:425px) {
+    .navbar-brand{
+        width: 40%;
+    }
+}
+@media (max-width:375px) {
+    
+}
+@media (max-width:320px) {
+    
+}
